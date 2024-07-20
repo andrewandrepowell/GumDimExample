@@ -1,0 +1,1112 @@
+{
+  "UserEvents": {
+    "andre": [
+      {
+        "NewName": "screen_0.dimmerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T06:47:15.3801669Z"
+      },
+      {
+        "NewName": "screen_0.dimmer_1",
+        "OldName": "screen_0.dimmerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T06:47:26.5636456Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.dimmer dimmer_1 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T07:19:45.8482413Z"
+      },
+      {
+        "NewName": "screen_0.dimmerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T07:19:48.5771527Z"
+      },
+      {
+        "NewName": "screen_0.dimmer_1",
+        "OldName": "screen_0.dimmerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T07:20:07.8406694Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.dimmer dimmer_1 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T07:46:50.7672398Z"
+      },
+      {
+        "NewName": "screen_0.dimmer_1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T07:46:55.7891143Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.sign sign_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T07:47:07.8634381Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.ui_element coins_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T07:47:07.89051Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.ui_element timer_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T07:47:07.9123668Z"
+      },
+      {
+        "NewName": "screen_0.sign_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T07:47:10.7723531Z"
+      },
+      {
+        "NewName": "screen_0.coins_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T07:47:10.8114009Z"
+      },
+      {
+        "NewName": "screen_0.timer_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T07:47:10.8413506Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.sign sign_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T17:10:36.8046224Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.ui_element coins_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T17:10:36.8286699Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.ui_element timer_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T17:10:36.8526687Z"
+      },
+      {
+        "NewName": "screen_0.sign_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T17:10:42.9198545Z"
+      },
+      {
+        "NewName": "screen_0.coins_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T17:10:42.9508535Z"
+      },
+      {
+        "NewName": "screen_0.timer_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T17:10:42.9818528Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.dimmer dimmer_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T17:10:48.4398289Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.dimmer dimmer_1 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-12T17:10:48.4664649Z"
+      },
+      {
+        "NewName": "screen_0.dimmer_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T17:10:51.0254184Z"
+      },
+      {
+        "NewName": "screen_0.dimmer_1",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T17:10:51.0544186Z"
+      },
+      {
+        "NewName": "button",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-12T19:49:34.9293831Z"
+      },
+      {
+        "NewName": "button (Container).backplane_0",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T19:52:05.1825699Z"
+      },
+      {
+        "NewName": "Unselected",
+        "OldName": "Pressed",
+        "ElementType": "Components",
+        "EventType": 3,
+        "TimestampUtc": "2024-07-12T20:03:49.5775394Z"
+      },
+      {
+        "NewName": "menu_button",
+        "OldName": "button",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-12T20:22:09.4158427Z"
+      },
+      {
+        "NewName": "menu_button (Container).text_0",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T20:22:27.1193777Z"
+      },
+      {
+        "NewName": "main_menu_button",
+        "OldName": "menu_button",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-12T20:29:49.1842235Z"
+      },
+      {
+        "NewName": "menu\\main\\main_menu_button",
+        "OldName": "main_menu_button",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-12T20:30:21.8854406Z"
+      },
+      {
+        "NewName": "menu\\main\\button",
+        "OldName": "menu\\main\\main_menu_button",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-12T20:33:18.9881363Z"
+      },
+      {
+        "NewName": "menu\\main\\menu",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-12T20:49:00.7835571Z"
+      },
+      {
+        "NewName": "menus\\main\\menu",
+        "OldName": "menu\\main\\menu",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-12T20:49:05.8311485Z"
+      },
+      {
+        "NewName": "menus\\main\\button",
+        "OldName": "menu/main/button",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-12T20:49:26.0608131Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).backplane_0",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T20:51:29.8052958Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T20:54:54.4293766Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).resume_button_0",
+        "OldName": "menus\\main\\menu (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T20:55:09.1228807Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T20:56:38.315963Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).restart_button_0",
+        "OldName": "menus\\main\\menu (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T20:56:48.0914796Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T20:58:40.6908687Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).options_button_0",
+        "OldName": "menus\\main\\menu (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T20:58:57.3870078Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T21:00:32.3761236Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).exit_button_0",
+        "OldName": "menus\\main\\menu (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T21:00:51.6382805Z"
+      },
+      {
+        "NewName": "SelectStates",
+        "OldName": "States",
+        "ElementType": "Components",
+        "EventType": 4,
+        "TimestampUtc": "2024-07-12T21:14:19.4105327Z"
+      },
+      {
+        "NewName": "screen_0.menuInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T21:17:03.6341448Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-12T21:20:26.7406674Z"
+      },
+      {
+        "NewName": "menus\\main\\menu (Container).main_button_0",
+        "OldName": "menus\\main\\menu (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T21:20:42.4729631Z"
+      },
+      {
+        "NewName": "screen_0.main_menu_0",
+        "OldName": "screen_0.menuInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-12T21:23:40.2991432Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/main/menu (Container).menus\\main\\button resume_button_0 in menus/main/menu (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-13T16:33:09.2962735Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/main/menu (Container).menus\\main\\button restart_button_0 in menus/main/menu (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-13T16:33:09.2982383Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/main/menu (Container).menus\\main\\button options_button_0 in menus/main/menu (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-13T16:33:09.3132183Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/main/menu (Container).menus\\main\\button exit_button_0 in menus/main/menu (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-13T16:33:09.3262221Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/main/menu (Container).menus\\main\\button main_button_0 in menus/main/menu (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-13T16:33:09.3372188Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0.menus\\main\\menu main_menu_0 in screen_0",
+        "ElementType": "Screens",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-13T16:33:21.4373719Z"
+      },
+      {
+        "NewName": "menus/main/menu (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-13T16:33:23.7877191Z"
+      },
+      {
+        "NewName": "screen_0 (Container).buttonInstance1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-13T16:33:44.4395127Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "screen_0 (Container).menus/main/button buttonInstance1 in screen_0 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-13T16:33:49.2664908Z"
+      },
+      {
+        "NewName": "menus/main/menu",
+        "OldName": "screen_0",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-13T16:34:05.478087Z"
+      },
+      {
+        "NewName": "screen_0",
+        "OldName": "screen_0",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-13T16:34:26.3952531Z"
+      },
+      {
+        "NewName": "menus/main/menu (Container).resume_button_0",
+        "OldName": "menus/main/menu (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-13T16:35:05.8345878Z"
+      },
+      {
+        "NewName": "menus/main/menu (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-13T16:35:31.6119667Z"
+      },
+      {
+        "NewName": "menus/main/container",
+        "OldName": "menus/main/menu",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-13T16:35:46.8043988Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).restart_button_0",
+        "OldName": "menus/main/container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-13T16:36:02.9907836Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-13T16:36:40.9321228Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).options_button_0",
+        "OldName": "menus/main/container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-13T16:37:25.3420785Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-13T16:37:29.8278026Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).main_button_0",
+        "OldName": "menus/main/container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-13T16:37:52.5899895Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-13T16:38:13.5231213Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).exit_button_0",
+        "OldName": "menus/main/container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-13T16:38:39.0549249Z"
+      },
+      {
+        "NewName": "menus/main/container (Container).title_button_0",
+        "OldName": "menus/main/container (Container).main_button_0",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-13T16:46:25.9442887Z"
+      },
+      {
+        "NewName": "screen_0.containerInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-13T17:19:01.7511542Z"
+      },
+      {
+        "NewName": "screen_0.main_menu_0",
+        "OldName": "screen_0.containerInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-13T17:19:16.4344782Z"
+      },
+      {
+        "NewName": "LeftHidden",
+        "OldName": "Hidden",
+        "ElementType": "Components",
+        "EventType": 3,
+        "TimestampUtc": "2024-07-13T21:44:05.8340519Z"
+      },
+      {
+        "NewName": "menus\\title\\button_0",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-14T00:40:31.663454Z"
+      },
+      {
+        "NewName": "menus\\title\\button_0 (Container).NineSliceInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T00:40:49.9859905Z"
+      },
+      {
+        "NewName": "menus\\title\\button_0 (Container).backplane_0",
+        "OldName": "menus\\title\\button_0 (Container).NineSliceInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T00:40:57.0439473Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus\\title\\button_0 (Container).NineSlice backplane_0 in menus\\title\\button_0 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T00:41:17.0411487Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/button_0",
+        "ElementType": "Components",
+        "EventType": 1,
+        "TimestampUtc": "2024-07-14T00:48:57.3268039Z"
+      },
+      {
+        "NewName": "menus\\title\\start_button_0",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-14T00:49:37.5281543Z"
+      },
+      {
+        "NewName": "menus\\title\\button",
+        "OldName": "menus\\title\\start_button_0",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T00:49:53.0695925Z"
+      },
+      {
+        "NewName": "menus\\title\\button (Container).TextInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T00:49:59.4310527Z"
+      },
+      {
+        "NewName": "menus\\title\\button (Container).text_0",
+        "OldName": "menus\\title\\button (Container).TextInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T00:50:05.5783976Z"
+      },
+      {
+        "NewName": "menus\\title\\text",
+        "OldName": "menus\\title\\button",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T00:56:51.8282011Z"
+      },
+      {
+        "NewName": "menus\\title\\basket",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-14T00:58:24.1947843Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).ContainerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T00:59:07.9308565Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).start_container_0",
+        "OldName": "menus\\title\\basket (Container).ContainerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T00:59:21.3127111Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).textInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T01:00:02.1003448Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).start_button_0",
+        "OldName": "menus\\title\\basket (Container).textInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T01:00:13.1963401Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).ContainerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T01:05:19.0221319Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).main_container_0",
+        "OldName": "menus\\title\\basket (Container).ContainerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T01:06:26.5913921Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).textInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T01:06:55.4079809Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).platform_button_0",
+        "OldName": "menus\\title\\basket (Container).textInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T01:07:58.8281049Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).textInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T01:08:10.0546522Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).combat_button_0",
+        "OldName": "menus\\title\\basket (Container).textInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T01:08:48.7242495Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).textInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T01:10:27.3414199Z"
+      },
+      {
+        "NewName": "menus\\title\\basket (Container).exit_button_0",
+        "OldName": "menus\\title\\basket (Container).textInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T01:10:32.7406433Z"
+      },
+      {
+        "NewName": "screen_0.basketInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:17:51.5479668Z"
+      },
+      {
+        "NewName": "screen_0.title_basket_0",
+        "OldName": "screen_0.basketInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:18:13.8543542Z"
+      },
+      {
+        "NewName": "menus\\title\\button",
+        "OldName": "menus\\title\\text",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T02:22:29.5283175Z"
+      },
+      {
+        "NewName": "menus/title/button",
+        "OldName": "menus\\title\\button",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T02:22:59.1846036Z"
+      },
+      {
+        "NewName": "menus/title/basket",
+        "OldName": "menus\\title\\basket",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T02:23:11.1126958Z"
+      },
+      {
+        "NewName": "menus\\title\\container",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-14T02:24:26.6610519Z"
+      },
+      {
+        "NewName": "menus/title/start_container",
+        "OldName": "menus\\title\\container",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T02:25:00.9129716Z"
+      },
+      {
+        "NewName": "menus\\title\\main_container",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-14T02:25:18.5965266Z"
+      },
+      {
+        "NewName": "menus/title/main_container",
+        "OldName": "menus\\title\\main_container",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T02:25:28.1518699Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).Container start_container_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:25:55.9203321Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus/title/button start_button_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:26:00.2048139Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).Container main_container_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:26:04.6295456Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus/title/button combat_button_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:26:04.8425473Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus/title/button exit_button_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:26:04.8465485Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus/title/button platform_button_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:26:04.8595477Z"
+      },
+      {
+        "NewName": "menus/title/start_container (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:26:35.6785615Z"
+      },
+      {
+        "NewName": "menus/title/start_container (Container).start_button_0",
+        "OldName": "menus/title/start_container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:26:44.3493141Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:27:51.2587006Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).platform_button_0",
+        "OldName": "menus/title/main_container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:28:12.0374234Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:28:45.6012372Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).combat_button_0",
+        "OldName": "menus/title/main_container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:28:59.5300552Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).buttonInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:29:38.9579569Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).exit_button_0",
+        "OldName": "menus/title/main_container (Container).buttonInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:29:45.8252279Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).start_containerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:31:07.3435989Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).start_container_0",
+        "OldName": "menus/title/basket (Container).start_containerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:31:15.217669Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).main_containerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:31:44.3449945Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).main_container_0",
+        "OldName": "menus/title/basket (Container).main_containerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:31:53.0950031Z"
+      },
+      {
+        "NewName": "menus\\title\\container",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-14T02:39:01.1339107Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).containerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:39:23.1452104Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus/title/start_container start_container_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:39:30.0047355Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus/title/main_container main_container_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:39:30.028726Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).start_button_0",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:39:36.4984815Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).start_container_0",
+        "OldName": "menus/title/basket (Container).containerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:39:45.8259698Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/container",
+        "ElementType": "Components",
+        "EventType": 1,
+        "TimestampUtc": "2024-07-14T02:55:03.599417Z"
+      },
+      {
+        "NewName": "menus/main/container1",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-14T02:55:07.2904414Z"
+      },
+      {
+        "NewName": "menus\\title\\container1",
+        "OldName": "menus/main/container1",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T02:55:12.484599Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus\\title\\container1 (Container).NineSlice backplane_0 in menus\\title\\container1 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:55:27.5232295Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus\\title\\container1 (Container).menus/main/button resume_button_0 in menus\\title\\container1 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:55:27.5242369Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus\\title\\container1 (Container).menus/main/button restart_button_0 in menus\\title\\container1 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:55:27.5362903Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus\\title\\container1 (Container).menus/main/button options_button_0 in menus\\title\\container1 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:55:27.5472464Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus\\title\\container1 (Container).menus/main/button title_button_0 in menus\\title\\container1 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:55:27.5582634Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus\\title\\container1 (Container).menus/main/button exit_button_0 in menus\\title\\container1 (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T02:55:27.5712473Z"
+      },
+      {
+        "NewName": "menus/title/container",
+        "OldName": "menus\\title\\container1",
+        "ElementType": "Components",
+        "EventType": 2,
+        "TimestampUtc": "2024-07-14T02:55:38.9657105Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).containerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T02:57:12.5960364Z"
+      },
+      {
+        "NewName": "menus/title/main_container (Container).container_0",
+        "OldName": "menus/title/main_container (Container).containerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T02:57:21.676629Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/main_container (Container).menus/title/container container_0 in menus/title/main_container (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T03:07:27.7009922Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus\\title\\container start_container_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T03:09:31.6925457Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/basket (Container).menus/title/button start_button_0 in menus/title/basket (Container)",
+        "ElementType": "Components",
+        "EventType": 6,
+        "TimestampUtc": "2024-07-14T03:09:31.7435893Z"
+      },
+      {
+        "NewName": null,
+        "OldName": "menus/title/container",
+        "ElementType": "Components",
+        "EventType": 1,
+        "TimestampUtc": "2024-07-14T04:13:12.3180412Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).start_containerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T04:14:34.5975687Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).main_containerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-14T04:14:38.7634165Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).start_container_0",
+        "OldName": "menus/title/basket (Container).start_containerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T04:14:46.7837076Z"
+      },
+      {
+        "NewName": "menus/title/basket (Container).main_container_0",
+        "OldName": "menus/title/basket (Container).main_containerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-14T04:14:52.9374926Z"
+      },
+      {
+        "NewName": "dimmer",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-20T06:04:20.557868Z"
+      },
+      {
+        "NewName": "dimmer (Container).ColoredRectangleInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-20T06:04:26.0634965Z"
+      },
+      {
+        "NewName": "screen_0",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-20T06:04:33.4014719Z"
+      },
+      {
+        "NewName": "dimmer (Container).rectangle_0",
+        "OldName": "dimmer (Container).ColoredRectangleInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-20T06:04:52.507962Z"
+      },
+      {
+        "NewName": "window",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 0,
+        "TimestampUtc": "2024-07-20T06:06:43.8817882Z"
+      },
+      {
+        "NewName": "window (Container).dimmerInstance",
+        "OldName": null,
+        "ElementType": "Components",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-20T06:07:12.0814994Z"
+      },
+      {
+        "NewName": "window (Container).dimmer_0",
+        "OldName": "window (Container).dimmerInstance",
+        "ElementType": "Components",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-20T06:07:45.9881111Z"
+      },
+      {
+        "NewName": "screen_0.windowInstance",
+        "OldName": null,
+        "ElementType": "Screens",
+        "EventType": 5,
+        "TimestampUtc": "2024-07-20T06:08:29.9108264Z"
+      },
+      {
+        "NewName": "screen_0.window_0",
+        "OldName": "screen_0.windowInstance",
+        "ElementType": "Screens",
+        "EventType": 7,
+        "TimestampUtc": "2024-07-20T06:08:36.6795262Z"
+      }
+    ]
+  }
+}
